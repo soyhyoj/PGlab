@@ -6,3 +6,8 @@ Examples of time-series scientific data processing in Python are included in the
 
   * Type 1. Live cell fluorescent images <br>
   * Type 2. Electrophysiology recordings
+
+
+TO-DO LIST
+[ ] Electrophysiology - add peak detection
+[ ] Electrophysiology - add result graphs & statistics
