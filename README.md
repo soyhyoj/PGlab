@@ -1,4 +1,4 @@
-# PGlab
+# PGlab - experimental data analysis
 
 Notebooks used to analyze experimental data between 2018 and 2019 at Dr. Gorostiza's laboratory, Institute of Bioengineering for Catalonia.
 
@@ -8,6 +8,8 @@ Examples of time-series scientific data processing in Python are included in the
   * Type 2. Electrophysiology recordings
 
 
-TO-DO LIST
-[ ] Electrophysiology - add peak detection
-[ ] Electrophysiology - add result graphs & statistics
+## TO-DO LIST
+
+ [ ] Electrophysiology - add peak detection
+
+ [ ] Electrophysiology - add result graphs & statistics
