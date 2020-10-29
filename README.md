@@ -9,6 +9,6 @@ Examples of time-series scientific data processing in Python are included in the
 
 
 
-## TO-DO LIST
+## Still missing
 
  [ ] Electrophysiology - add result graphs & statistics
