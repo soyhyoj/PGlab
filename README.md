@@ -8,7 +8,7 @@ Python
 
 
 ## Data
-time-series scientific data (=brain signals)
+Time-series of electrical or chemical signals recorded from rodent brain cells (neurons and astrocytes, either from tissue or cultured cells)
 
   * Data Type 1. Live cell fluorescent images <br>
   * Data Type 2. Electrophysiology recordings
